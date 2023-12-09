@@ -15,7 +15,7 @@ public class Flight {
     }
 
     public void display() {
-        System.out.println(number + ", " + destination);
+        System.out.println(number + ", " + destination + ", Chùa Sensoji");
     }
 
     public static void main(String[] args) {
